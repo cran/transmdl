@@ -1,0 +1,16 @@
+963a0e53ff59fbaa8c874600b51c465e *DESCRIPTION
+407c84f3f55579931736a35ccb641b15 *NAMESPACE
+68f5f6de5ae692014436de100a43d72e *R/EM_est.R
+96fa6fb4ccad96f57d5f00b018cb9eb2 *R/RcppExports.R
+0c0bea3e5567253869664debdf6d2d09 *R/generate_data.R
+8474164f12ff716d17e96a881f2b8568 *R/trans_alasso.R
+02fae89cf88dc98c61d366370164207b *R/trans_m.R
+0019cc3b3c91c47b97bc8abf9fd283d2 *R/transmdl-package.R
+7ae30b946ab60ceebae0dbc6763f7838 *man/EM_est.Rd
+df9ee406d5beb6fa7eba42f8b4af87ed *man/generate_data.Rd
+65a95d0c94339882bc33c444002cdfbf *man/trans_alasso.Rd
+8269f2f30f953474e13df85519f1a99d *man/trans_m.Rd
+3bc37c5a573a0237f4e5957b2b941bdd *src/ESSEB2.cpp
+b216dca84ffdd3b764288a4d2fc93df9 *src/RcppExports.cpp
+e0726a84c5ef3b4dccb4d28a90a7c228 *src/ddloglik_transmdl.cpp
+ac0d111c73977a51914cca4e7e4822e8 *src/shoot.cpp
